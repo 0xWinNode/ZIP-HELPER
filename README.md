@@ -54,10 +54,14 @@ Feel free to submit pull requests or issues. Contributions are welcome!
 
 If you would like to support the development of this project, you can make a donation using the following addresses:
 
-- **Solana**: `GLQMG8j23ookY8Af1uLUg4CQzuQYhXcx56rkpZkyiJvP`
-- **EVM**: `0x960EDa0D16f4D70df60629117ad6e5F1E13B8F44`
-- **BTC**: `bc1p9za9ctgwwvc7amdng8gvrjpwhnhnwaxzj3nfv07szqwrsrudfh6qvvxrj8`
+- **Solana**: `95m5zAspEMNy5Dhc6hGCuUKygP8e7kLLC6dz23cJ13nk`
+- **ETH**: `0xa7816292d470BC4e4426a5FAdA71A42C0f370C53`
+- **BTC**: `bc1qj7han8vx7vzd7ecwkmkqytgd403326qcjcq5at`
 
 ## License
 
 This project is licensed under the MIT License.
+
+# [Nofan Rambe]
+
+# Terima Kasih
